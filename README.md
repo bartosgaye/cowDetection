@@ -206,8 +206,7 @@ Run in Colab:
 
 1. Redmon, J., Divvala, S., Girshick, R., Farhadi, A., *You Only Look Once: Unified, Real-Time Object Detection*, 2016.
 2. Lin, T.Y., et al., *Microsoft COCO: Common Objects in Context*, 2014.
-3. [cowDetection GitHub Repository](https://github.com/bartosgaye/cowDetection), 2024.
-4. [FFmpeg](https://www.ffmpeg.org/download.html)
-5. [LabelImg](https://pypi.org/project/labelImg/1.4.0/)
-6. [AlexeyAB Darknet](https://github.com/AlexeyAB/darknet)
+3. [FFmpeg](https://www.ffmpeg.org/download.html)
+4. [LabelImg](https://pypi.org/project/labelImg/1.4.0/)
+5. [AlexeyAB Darknet](https://github.com/AlexeyAB/darknet)
 
