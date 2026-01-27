@@ -1,6 +1,9 @@
 # Training YOLOv3 on a Custom Dataset
 
 This guide provides a step-by-step workflow for training YOLOv3 to detect a custom object, in this case, a specific cow. The workflow combines both local and cloud-based computational resources for optimal performance.
+## Kaggle Dataset
+
+The full dataset, including images, YOLO labels, and Darknet configuration files, is available on [Kaggle](https://www.kaggle.com/datasets/gayebartos/yolov3-cow-detection).
 
 ---
 
@@ -209,4 +212,5 @@ Run in Colab:
 3. [FFmpeg](https://www.ffmpeg.org/download.html)
 4. [LabelImg](https://pypi.org/project/labelImg/1.4.0/)
 5. [AlexeyAB Darknet](https://github.com/AlexeyAB/darknet)
+6. Kaggle dataset for YOLOv3 Cow Detection: [https://www.kaggle.com/datasets/gayebartos/yolov3-cow-detection](https://www.kaggle.com/datasets/gayebartos/yolov3-cow-detection)
 
